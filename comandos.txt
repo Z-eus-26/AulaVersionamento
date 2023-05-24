@@ -1,1 +1,1 @@
-Git log é um comando que lista os commits realizados
+Git log é um comando que lista os commits realizadoss
